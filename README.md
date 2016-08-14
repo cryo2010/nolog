@@ -1,12 +1,12 @@
 # Overview
-nolog is a null logging module.  It provides a means by which to disable logging via the Null Object pattern.
+null-log is a null logging module.  It provides a means by which to disable logging via the Null Object pattern.
 
 # Installation
-npm install nolog
+npm install null-log
 
 # Usage Example
 ```javascript
-const NullLogger = require('nolog');
+const NullLogger = require('null-log');
 
 class Foo {
   constructor(logger) {
