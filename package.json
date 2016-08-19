@@ -1,10 +1,14 @@
 {
-  "name": "nolog",
-  "version": "1.0.0",
+  "name": "null-log",
+  "version": "1.0.2",
   "description": "A null logging module",
   "main": "logger.js",
   "scripts": {
     "test": "node test/logger-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cryo2010/null-log"
   },
   "author": "",
   "license": "ISC",
