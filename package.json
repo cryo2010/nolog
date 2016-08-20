@@ -1,6 +1,6 @@
 {
   "name": "null-log",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A null logging module",
   "main": "logger.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "https://github.com/cryo2010/null-log"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "tape": "^4.6.0",
     "tape-catch": "^1.0.6"
